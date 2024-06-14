@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projet Unity\\Hackaton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|c:\\projet unity\\hackaton\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|C:\\Projet Unity\\Hackaton\\assets\\scripts\\dragonattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragonattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|c:\\projet unity\\hackaton\\assets\\character\\scripts\\movebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\movebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|C:\\Projet Unity\\Hackaton\\assets\\scripts\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|C:\\Projet Unity\\Hackaton\\assets\\scripts\\countermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\countermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|C:\\Projet Unity\\Hackaton\\assets\\character\\scripts\\basicbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\basicbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|C:\\Projet Unity\\Hackaton\\assets\\scripts\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\GameManager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|C:\\Projet Unity\\Hackaton\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|C:\\Projet Unity\\Hackaton\\assets\\character\\scripts\\aimbehaviourbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\aimbehaviourbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|C:\\Projet Unity\\Hackaton\\assets\\amusedart\\stonemonster\\script\\suivi de joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\amusedart\\stonemonster\\script\\suivi de joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|C:\\Projet Unity\\Hackaton\\assets\\scripts\\counteritemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counteritemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|C:\\Projet Unity\\Hackaton\\assets\\character\\scripts\\thirdpersonorbitcambasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA0B737-596F-F2F1-DA9E-20D4B3919C70}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\thirdpersonorbitcambasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveBehaviour.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Character\\Scripts\\MoveBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Character\\Scripts\\MoveBehaviour.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Character\\Scripts\\MoveBehaviour.cs",
+              "RelativeToolTip": "Assets\\Character\\Scripts\\MoveBehaviour.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:56:50.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Action.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\Action.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Action.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\Action.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Action.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:02:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CounterItemUI.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\CounterItemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CounterItemUI.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\CounterItemUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CounterItemUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:22:02.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CounterManager.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\CounterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CounterManager.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\CounterManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CounterManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:21:58.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PickupItem.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\PickupItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickupItem.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\PickupItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickupItem.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwI8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:21:48.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAowIMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:44:54.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicBehaviour.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Character\\Scripts\\BasicBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Character\\Scripts\\BasicBehaviour.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Character\\Scripts\\BasicBehaviour.cs",
+              "RelativeToolTip": "Assets\\Character\\Scripts\\BasicBehaviour.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwHIBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:29:09.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DragonAttack.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\DragonAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragonAttack.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\DragonAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragonAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:07:04.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager1.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\GameManager1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager1.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\GameManager1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:00:04.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Suivi de joueur.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\amusedART\\StoneMonster\\Script\\Suivi de joueur.cs",
+              "RelativeDocumentMoniker": "Assets\\amusedART\\StoneMonster\\Script\\Suivi de joueur.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\amusedART\\StoneMonster\\Script\\Suivi de joueur.cs",
+              "RelativeToolTip": "Assets\\amusedART\\StoneMonster\\Script\\Suivi de joueur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:51:47.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:51:23.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AimBehaviourBasic.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Character\\Scripts\\AimBehaviourBasic.cs",
+              "RelativeDocumentMoniker": "Assets\\Character\\Scripts\\AimBehaviourBasic.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Character\\Scripts\\AimBehaviourBasic.cs",
+              "RelativeToolTip": "Assets\\Character\\Scripts\\AimBehaviourBasic.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:28:49.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThirdPersonOrbitCamBasic.cs",
+              "DocumentMoniker": "C:\\Projet Unity\\Hackaton\\Assets\\Character\\Scripts\\ThirdPersonOrbitCamBasic.cs",
+              "RelativeDocumentMoniker": "Assets\\Character\\Scripts\\ThirdPersonOrbitCamBasic.cs",
+              "ToolTip": "C:\\Projet Unity\\Hackaton\\Assets\\Character\\Scripts\\ThirdPersonOrbitCamBasic.cs",
+              "RelativeToolTip": "Assets\\Character\\Scripts\\ThirdPersonOrbitCamBasic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:18:22.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
